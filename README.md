@@ -28,6 +28,3 @@ A simple Java-based inventory and order management system that allows users to c
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
