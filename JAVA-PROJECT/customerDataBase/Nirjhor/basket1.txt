@@ -1,0 +1,2 @@
+1	aviator og	550	2	1100
+2	Black Flag	650	1	650

@@ -1,0 +1,4 @@
+1	aviator	500	1	500
+2	aviator	500	3	1500
+3	aviator	500	1	500
+4	aviator	500	1	500

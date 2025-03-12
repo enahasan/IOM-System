@@ -1,0 +1,2 @@
+1	White Flag	650	1	650
+2	classic black (glossy) 	500	2	1000

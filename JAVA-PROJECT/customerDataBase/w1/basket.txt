@@ -1,0 +1,2 @@
+1	classic black (glossy) 	500	2	1000
+2	classic black (matte)	500	2	1000

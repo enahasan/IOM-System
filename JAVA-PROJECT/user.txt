@@ -1,0 +1,9 @@
+add	123
+aaaa	0
+n1	123
+a1	123
+E1	e1
+s1	s1
+s1	s1
+f6	tt
+w1	w2
