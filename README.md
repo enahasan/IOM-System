@@ -1,5 +1,8 @@
 # Inventory and Order Management System
 
+This project was developed during my **2023-2024 Spring Semester** in the **Java (Object-Oriented Programming 1)** course. It was a **group project** consisting of **four members** and also marked my **first project** in Java.
+
+## Overview
 A simple Java-based inventory and order management system that allows users to create accounts, browse products, add items to a cart, and place orders. Admins can manage users, view orders, and add new products manually.
 
 ## Features
@@ -14,7 +17,6 @@ A simple Java-based inventory and order management system that allows users to c
 - **View Users**: Admin can see all registered users.
 - **Manage Orders**: Admin can view all placed orders.
 - **Add Products**: Admin can manually add new products to the inventory.
-
 
 
 ## Technologies Used
